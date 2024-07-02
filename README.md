@@ -1,8 +1,14 @@
-- 👋 Olá, eu sou o Tompson
-- 👀 Estou interessado em Ciência e Análise de Dados...
-- 🌱 Atualemento estou apredendo Power BI e Python...
 
-<!---
-Tompson97/Tompson97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# BEM VINDO(A) AO MEU PERFIL!
+
+- 📌Nome : Robertson Tompson Farias Moreira Junior
+- 💼Habilidades: Excel Avançado| Google Sheets | Power BI | SQL | Python
+- 🎯Foco: Análise de dados para Business Intelligence
+- 🏠Origem: Manaus, AM - Brasil
+- 🌍País de moradia: Brasil
+
+
+|![EXCEL](https://img.shields.io/badge/-Excel-1F6E42?logo=xstate&logoColor=white)| ![SHEET](https://img.shields.io/badge/-Google_Sheet-107C41?logo=googlesheets&logoColor=white)|![powerbi](https://img.shields.io/badge/-Power_BI-F9CC42?logo=powerbi&logoColor=3E4555)|![SQL](https://img.shields.io/badge/-MySQL-4A7DA4?logo=mysql&logoColor=white)|![Python](https://img.shields.io/badge/-Python-3979AF?logo=python&logoColor=FFD347)|
+|--|--|--|--|--|
+
+
