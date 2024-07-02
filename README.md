@@ -15,8 +15,8 @@
 ## DASHBOARDS VENDAS
 [<img src="https://i.ibb.co/80Cqx09/capa.png" alt="capa" border="0">](https://youtu.be/vt5fpE0bzSY)
 
-## DASHBOARD FINACEIRO | RH | PRODUÇÃO
-
+## DASHBOARD | RH | PRODUÇÃO | FINANCEIRO
+[<img src="https://i.ibb.co/tHYDfqT/dashboards-financeiro-rh-e-produ-o.png" alt="dashboards-financeiro-rh-e-produ-o" border="0">](https://youtu.be/BAsVJnoCwbk)
 
 
 
