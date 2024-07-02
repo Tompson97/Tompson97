@@ -20,7 +20,7 @@ Desenvolvido no Power BI
 [<img src="https://i.ibb.co/tHYDfqT/dashboards-financeiro-rh-e-produ-o.png" alt="dashboards-financeiro-rh-e-produ-o" border="0">](https://youtu.be/BAsVJnoCwbk)
 Desenvolvido no Power BI
 
-## PLANILHA PARA ACOMPANHAR VENDAS
+## ACOMPANHAMENTO DE VENDAS | GOOGLE SHEETS
 [<img src="https://i.ibb.co/6gRxHq1/Planilha-de-Vendas.png" alt="Planilha-de-Vendas" border="0">](https://docs.google.com/spreadsheets/d/1eLT42_yI3NUQt2w0fWJXJjRpxeF8qEy7eQ-H-zqrQKg/edit?usp=sharing)
 Desenvolvida no Google Sheets
 
