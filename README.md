@@ -3,14 +3,14 @@
 
 - 📌Nome : Robertson Tompson Farias Moreira Junior
 - 📙Cursando Graduação em Ciência de Dados
-- 💼Habilidades: Excel Avançado| Google Sheets | Power BI | SQL | Python
+- 💼Habilidades: Excel Avançado| Google Sheets | Microsoft Office| Power BI | SQL | Python | Uso de Chat GPT |
 - 🎯Foco: Análise de dados para Business Intelligence
 - 🏠Origem: Manaus, AM - Brasil
 - 🌍País de moradia: Brasil
 
 
-|![EXCEL](https://img.shields.io/badge/-Excel-1F6E42?logo=xstate&logoColor=white)| ![SHEET](https://img.shields.io/badge/-Google_Sheet-107C41?logo=googlesheets&logoColor=white)|![powerbi](https://img.shields.io/badge/-Power_BI-F9CC42?logo=powerbi&logoColor=3E4555)|![SQL](https://img.shields.io/badge/-MySQL-4A7DA4?logo=mysql&logoColor=white)|![Python](https://img.shields.io/badge/-Python-3979AF?logo=python&logoColor=FFD347)|[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tompson-moreira/)|
-|--|--|--|--|--|--|
+|![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)| ![SHEET](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)|![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)|![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)|![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)|[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tompson-moreira/)|![OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)|![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)|
+|--|--|--|--|--|--|--|--|
 
 ## DASHBOARDS VENDAS
 [<img src="https://i.ibb.co/80Cqx09/capa.png" alt="capa" border="0">](https://youtu.be/elva6kVRo6Y)
