@@ -9,8 +9,8 @@
 - 🌍País de moradia: Brasil
 
 
-|![EXCEL](https://img.shields.io/badge/-Excel-1F6E42?logo=xstate&logoColor=white)| ![SHEET](https://img.shields.io/badge/-Google_Sheet-107C41?logo=googlesheets&logoColor=white)|![powerbi](https://img.shields.io/badge/-Power_BI-F9CC42?logo=powerbi&logoColor=3E4555)|![SQL](https://img.shields.io/badge/-MySQL-4A7DA4?logo=mysql&logoColor=white)|![Python](https://img.shields.io/badge/-Python-3979AF?logo=python&logoColor=FFD347)|
-|--|--|--|--|--|
+|![EXCEL](https://img.shields.io/badge/-Excel-1F6E42?logo=xstate&logoColor=white)| ![SHEET](https://img.shields.io/badge/-Google_Sheet-107C41?logo=googlesheets&logoColor=white)|![powerbi](https://img.shields.io/badge/-Power_BI-F9CC42?logo=powerbi&logoColor=3E4555)|![SQL](https://img.shields.io/badge/-MySQL-4A7DA4?logo=mysql&logoColor=white)|![Python](https://img.shields.io/badge/-Python-3979AF?logo=python&logoColor=FFD347)|[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tompson-moreira/)|
+|--|--|--|--|--|--|
 
 ## DASHBOARDS VENDAS
 [<img src="https://i.ibb.co/80Cqx09/capa.png" alt="capa" border="0">](https://youtu.be/elva6kVRo6Y)
