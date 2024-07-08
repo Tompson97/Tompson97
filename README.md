@@ -3,11 +3,11 @@
 
 - 📌Nome : Robertson Tompson Farias Moreira Junior
 - 📙Cursando Graduação em Ciência de Dados e formado em Técnico em Informática
-- 💼Habilidades: Excel Avançado| Google Sheets | Microsoft Office| Power BI | SQL | Python | Chat GPT |
+- 💼Habilidades: Excel Avançado | Google Sheets | Microsoft Office | Power BI | SQL | Python | Chat GPT |
 - 🎯Foco: Análise de dados para Business Intelligence
 - 🏠Origem: Manaus, AM - Brasil
 - 🌍País de moradia: Brasil
-
+- [Linkedin: Tompson Moreira](https://www.linkedin.com/in/tompson-moreira/)
 
 |![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)| ![SHEET](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)|![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)|![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)|![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)|[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tompson-moreira/)|![OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)|![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)|
 |--|--|--|--|--|--|--|--|
