@@ -3,7 +3,7 @@
 
 - 📌Nome : Robertson Tompson Farias Moreira Junior
 - 📙Cursando Graduação em Ciência de Dados
-- 💼Habilidades: Excel Avançado| Google Sheets | Microsoft Office| Power BI | SQL | Python | Uso de Chat GPT |
+- 💼Habilidades: Excel Avançado| Google Sheets | Microsoft Office| Power BI | SQL | Python | Chat GPT |
 - 🎯Foco: Análise de dados para Business Intelligence
 - 🏠Origem: Manaus, AM - Brasil
 - 🌍País de moradia: Brasil
