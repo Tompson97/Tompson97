@@ -20,11 +20,12 @@
 - [Desenvolvido no Power BI](https://youtu.be/elva6kVRo6Y)
 
 ## DASHBOARD | RH | PRODUÇÃO | FINANCEIRO
-[<img src="https://i.ibb.co/tHYDfqT/dashboards-financeiro-rh-e-produ-o.png" alt="dashboards-financeiro-rh-e-produ-o" border="0">](https://youtu.be/BAsVJnoCwbk)
-- [RH](https://x.gd/pCzwZ) | [PRODUÇÃO](https://x.gd/PqfzJ) | [FINANCEIRO](https://x.gd/aPLCn) 
+[<img src="https://i.ibb.co/tHYDfqT/dashboards-financeiro-rh-e-produ-o.png" alt="dashboards-financeiro-rh-e-produ-o" border="0">](https://github.com/Tompson97/Dashboards-PowerBI/tree/main)
+- [RH](https://x.gd/pCzwZ) | [PRODUÇÃO](https://x.gd/PqfzJ) | [FINANCEIRO](https://x.gd/aPLCn)
+- 
 ## ACOMPANHAMENTO DE VENDAS | GOOGLE SHEETS
-[<img src="https://i.ibb.co/6gRxHq1/Planilha-de-Vendas.png" alt="Planilha-de-Vendas" border="0">](https://docs.google.com/spreadsheets/d/1eLT42_yI3NUQt2w0fWJXJjRpxeF8qEy7eQ-H-zqrQKg/edit?usp=sharing)
-- [Desenvolvida no Google Sheets](https://docs.google.com/spreadsheets/d/1eLT42_yI3NUQt2w0fWJXJjRpxeF8qEy7eQ-H-zqrQKg/edit?usp=sharing)
+[<img src="https://i.ibb.co/6gRxHq1/Planilha-de-Vendas.png" alt="Planilha-de-Vendas" border="0">](https://github.com/Tompson97/Planilha-de-Vendas-Google-Sheets)
+- [Desenvolvida no Google Sheets](https://github.com/Tompson97/Planilha-de-Vendas-Google-Sheets)
 
 ## GERADOR DE ETIQUETAS | AUTOMAÇÃO PYTHON
 [<img src="https://i.ibb.co/4802msQ/ETIQUETA-copia1.png" alt="ETIQUETA-copia1" border="0">](https://youtu.be/JSFjC_j4-BY?si=B2o6hFUQtKmTxmzL)
