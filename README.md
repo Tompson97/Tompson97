@@ -7,7 +7,9 @@
 - 🎯Foco: Análise de dados para Business Intelligence
 - 🏠Origem: Manaus, AM - Brasil
 - 🌍País de moradia: Brasil
-- [Linkedin: Tompson Moreira](https://www.linkedin.com/in/tompson-moreira/)
+- 📱Contato: 55 92 99501-1207 
+- 🧑‍💼[Linkedin: Tompson Moreira](https://www.linkedin.com/in/tompson-moreira/)
+- ✉️ Email: tompsonmoreira@hotmail.com
 
 |![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)| ![SHEET](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)|![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)|![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)|![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)|[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tompson-moreira/)|![OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)|![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)|
 |--|--|--|--|--|--|--|--|
@@ -30,9 +32,9 @@
 ## ANÁLISE EXPLATÓRIA | PYTHON E PANDAS
 - [Análise completa](https://github.com/Tompson97/analise-exploratoria)
 
-[<img src="https://i.ibb.co/FYcyrzV/Venda-m-dia-produto.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
-[<img src="https://i.ibb.co/FnGW3D3/Lucro-por-marca.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
-[<img src="https://i.ibb.co/DK7sYc5/Lucro-por-ano.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
+[<img src="https://raw.githubusercontent.com/Tompson97/analise-exploratoria/main/anexos/figura3.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
+[<img src="https://raw.githubusercontent.com/Tompson97/analise-exploratoria/main/anexos/figura2.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
+[<img src="https://raw.githubusercontent.com/Tompson97/analise-exploratoria/main/anexos/figura1.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
 
 ## GERADOR DE ETIQUETAS | AUTOMAÇÃO PYTHON
 [<img src="https://i.ibb.co/4802msQ/ETIQUETA-copia1.png" alt="ETIQUETA-copia1" border="0">](https://youtu.be/JSFjC_j4-BY?si=B2o6hFUQtKmTxmzL)
