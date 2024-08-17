@@ -38,4 +38,4 @@
 [<img src="https://raw.githubusercontent.com/Tompson97/analise-exploratoria/main/anexos/figura1.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
 
 ## GERADOR DE ETIQUETAS | AUTOMAÇÃO PYTHON
-[<img src="https://i.ibb.co/x6d6qHm/etiquetas.png" alt="ETIQUETA-copia1" border="0">](https://youtu.be/y_QMUpMbgCM?si=PEvYnWi77IEdHEbf)
+[<img src="https://i.ibb.co/x6d6qHm/etiquetas.png" alt="ETIQUETA-copia1" border="0">](https://github.com/Tompson97/Gerador-de-Etiquetas.git)
