@@ -24,7 +24,6 @@
 ## DASHBOARD | RH | PRODUÇÃO | FINANCEIRO | PRODUTOS
 [<img src="https://i.ibb.co/tHYDfqT/dashboards-financeiro-rh-e-produ-o.png" alt="dashboards-financeiro-rh-e-produ-o" border="0">](https://github.com/Tompson97/Dashboards-PowerBI/tree/main)
 [<img src="https://i.ibb.co/DVxk8JD/Vendas-por-produto.png" alt="dashboards-financeiro-rh-e-produ-o" border="0">](https://github.com/Tompson97/Dashboards-PowerBI/tree/main)
-- [RH](https://x.gd/pCzwZ) | [PRODUÇÃO](https://x.gd/PqfzJ) | [FINANCEIRO](https://x.gd/aPLCn) | [PRODUTOS](https://encurtador.com.br/g2O45)
 
 ## ACOMPANHAMENTO DE VENDAS | GOOGLE SHEETS
 [<img src="https://i.ibb.co/6gRxHq1/Planilha-de-Vendas.png" alt="Planilha-de-Vendas" border="0">](https://github.com/Tompson97/Planilha-de-Vendas-Google-Sheets)
