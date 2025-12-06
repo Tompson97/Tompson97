@@ -2,7 +2,7 @@
 # BEM VINDO(A) AO MEU PERFIL!
 
 - 📌Nome : Robertson Tompson Farias Moreira Junior
-- 📙Cursando Graduação em Ciência de Dados e formado em Técnico em Informática
+- 📙Graduação em Ciência de Dados e formado em Técnico em Informática
 - 💼Habilidades: Excel Avançado | Google Sheets | Microsoft Office | Power BI | SQL | Python | Chat GPT |
 - 🎯Foco: Análise de dados para Business Intelligence
 - 🏠Origem: Manaus, AM - Brasil
